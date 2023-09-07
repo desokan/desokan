@@ -1,7 +1,5 @@
 <h3>I am a Full-Stack Developer based in the United Kingdom. My journey into software development began with intensive six-month training at Boolean UK, where I mastered a comprehensive stack including React, JavaScript, MongoDB, PostgreSQL, and more.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=desokan" alt="desokan" /></a> </p>
-
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
 
 - 🌱 I’m currently learning **AWS DevOps, Python and Golang**
