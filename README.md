@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rasheed Adesokan</h1>
 <h3 align="center">Based in the United Kingdom, I am a Full-Stack Developer with a solid background in Business Analysis and Product Ownership. My path into software development was initiated through rigorous six-month training at Boolean UK, where I mastered an extensive stack comprising HTML, CSS, React, JavaScript, MongoDB, PostgreSQL, Prisma, Jest, and Jasmine. My enthusiasm for a fresh career as a software developer is fueled by the prospect of applying my distinct skill set in this dynamic field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desokan&label=Profile%20views&color=0e75b6&style=flat" alt="desokan" /> </p>
