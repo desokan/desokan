@@ -1,4 +1,5 @@
 <h3>I am a Full-Stack Developer based in the United Kingdom. My journey into software development began with intensive six-month training at Boolean UK, where I mastered a comprehensive stack including React, JavaScript, MongoDB, PostgreSQL, and more.</h3>
+<br/>
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
 
