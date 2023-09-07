@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
 
-- 🌱 I’m currently learning **AWS DevOps, Python and Golang**
-
-- 👨‍💻 All of my projects are available at [https://github.com/desokan](https://github.com/desokan)
-
-- 💬 Ask me about **React, MongoDB, PostgreSQL, HTML, CSS, Tailwind CSS, Jest, RTL, Node.js, and Express.js**
+- 🌱 I’m currently learning **AWS and Python**
 
 - 📫 How to reach me **adesokanrasheed@yahoo.co.uk**
 
