@@ -1,5 +1,4 @@
 <h3>I am a Full-Stack Developer based in the United Kingdom. My journey into software development began with intensive six-month training at Boolean UK, where I mastered a comprehensive stack including React, JavaScript, MongoDB, PostgreSQL, and more.</h3>
-<br/>
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
 
@@ -8,8 +7,6 @@
 - 📫 How to reach me **adesokanrasheed@yahoo.co.uk**
 
 - 📄 Know about my experiences [https://app.enhancv.com/share/7b091011/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/7b091011/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
