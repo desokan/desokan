@@ -1,4 +1,4 @@
-![Data Vis](./public/assets/GitHubRasheedPhoto.png)
+![Banner](./public/assets/GitHubRasheedPhoto.png)
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![Data Vis](./public/assets/FrontBackStacks.png)
+![List of Tech Stacks](./public/assets/FrontBackStacks.png)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desokan&show_icons=true&locale=en&layout=compact" alt="desokan" /></p>
 
