@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHubRasheedPhoto.png" alt="Banner" />
-</p>
-
 ![Data Vis](./public/assets/GitHubRasheedPhoto.png)
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
@@ -15,9 +11,6 @@
 <h3 align="left">Connect with me: <span><a href="https://linkedin.com/in/rasheed-adesokan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasheed-adesokan" height="30" width="40" /></a></span></h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/FrontBackStacks.png" alt="Banner" />
-</p>
 
 ![Data Vis](./public/assets/FrontBackStacks.png)
 
