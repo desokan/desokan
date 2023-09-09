@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Banner" />
+  <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHub+Rasheed+Photo.png" alt="Banner" />
 </p>
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
