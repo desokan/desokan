@@ -18,7 +18,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img src="" alt="Banner" />
+  <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHubRasheedStacks.png" alt="Banner" />
 </p>
 
 <p>
