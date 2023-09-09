@@ -2,6 +2,8 @@
   <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHubRasheedPhoto.png" alt="Banner" />
 </p>
 
+![Data Vis](./public/assets/GitHubRasheedPhoto.png)
+
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
 
 - 🌱 I’m currently learning **AWS and Python**
@@ -16,6 +18,8 @@
 <p>
   <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/FrontBackStacks.png" alt="Banner" />
 </p>
+
+![Data Vis](./public/assets/FrontBackStacks.png)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=desokan&show_icons=true&locale=en&layout=compact" alt="desokan" /></p>
 
