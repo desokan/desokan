@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <img src="" alt="Banner" />
+  <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/FrontBackStacks.png" alt="Banner" />
 </p>
 
 
