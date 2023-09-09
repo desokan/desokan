@@ -1,7 +1,7 @@
 <h3>I am a Full-Stack Developer based in the United Kingdom, looking for a Junior Full-stack Software Development role.</h3>
 
 <p align="center">
-  <img" src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHub+Rasheed+Photo.png" alt="Banner" />
+  <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHub+Rasheed+Photo.png" alt="Banner" />
 </p>
 
 - 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
