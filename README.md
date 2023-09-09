@@ -16,11 +16,14 @@
 <a href="https://linkedin.com/in/rasheed-adesokan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasheed-adesokan" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p>
   <img src="https://boolean-spotify-clone.s3.eu-west-2.amazonaws.com/GitHubRasheedStacks.png" alt="Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p>
+  <img src="" alt="Banner" />
+</p>
 
 
 <p>
