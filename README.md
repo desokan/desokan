@@ -1,6 +1,6 @@
 ![Banner](./public/assets/GitHubRasheedPhoto.png)
 
-- 🔭 I’m currently working on [The Erudite Speakers Website](https://github.com/desokan/speakaz_frontend)
+- 🔭 I’m currently working on [A microservices project](https://github.com/desokan/microservices-blog-project) and [A RESTful API for a tour company](https://github.com/desokan/tour_project)
 
 - 🌱 I’m currently learning **AWS and Python**
 
