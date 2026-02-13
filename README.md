@@ -1,4 +1,4 @@
-![Banner](https://github.com/desokan/desokan/blob/main/DesokanGitHubBanner.png)
+![Banner](https://github.com/desokan/desokan/blob/main/MyGitHubBanner.png)
 
 ## Hi there, I'm Rasheed from London, UK
 
