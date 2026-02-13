@@ -53,7 +53,7 @@ You'll find me **creating content** to help others on their analytics journey, *
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Data Analysis & Visualisation
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
