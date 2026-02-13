@@ -44,7 +44,7 @@ _"Data without action is just information. Let's turn it into impact."_
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** End-to-end analytics pipeline with churn prediction, budget optimisation, demand forecasting, and AI-powered chatbot — demonstrating descriptive through prescriptive analytics.
+- **Project A:** End-to-end analytics pipeline with churn prediction, budget optimisation, demand forecasting, and AI-powered chatbot.
 - **Content Creation:** Developing new tutorials on data SQL, Power BI, Python, Excel for my YouTube channel.
 
 ## 🌱 Currently Learning 
