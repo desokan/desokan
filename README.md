@@ -13,7 +13,7 @@
   <a href="mailto:adesokanrasheed@yahoo.co.uk"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-🎯 Data Analyst | AI Enthusiast | Business Problem Solver
+## 🎯 Data Analyst | AI Enthusiast | Business Problem Solver
 
 ---
 
