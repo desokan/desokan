@@ -44,9 +44,8 @@ _"Data without action is just information. Let's turn it into impact."_
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** End-to-end analytics pipeline with churn prediction, budget optimisation, demand forecasting, and AI-powered chatbot — demonstrating descriptive through prescriptive analytics.
+- **Content Creation:** Developing new tutorials on data SQL, Power BI, Python, Excel for my YouTube channel.
 
 ## 🌱 Currently Learning 
 
