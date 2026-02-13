@@ -1,4 +1,4 @@
-## Hi there, I'm Rasheed from London (UK)
+## Hi there, I'm Rasheed from London, UK
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
