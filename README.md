@@ -14,6 +14,7 @@
 </p>
 
 🎯 Data Analyst | AI Enthusiast | Business Problem Solver
+
 ---
 
 I transform complex data into clear, actionable insights that drive business decisions. My passion lies in **solving real business problems and solving it efficiently** — whether that's optimising processes, improving performance metrics, or uncovering the root causes behind operational challenges.
