@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=575&lines=Business+Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=575&lines=Full-Stack+Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -32,39 +32,15 @@ You'll find me **creating content** to help others on their analytics journey, *
 
 ---
 
-📫 **Let's connect:** [LinkedIn](#) | [Portfolio](#) | [Email](mailto:your.email@example.com)  
-💬 **Open to:** Data analyst roles, collaboration opportunities, mentorship, and meaningful data conversations.
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rasheed-adesokan/) | [Portfolio](https://adesokan.uk) | [Email](rasheed@adesokan.uk)  
+💬 **Open to:** Data analyst roles, collaboration opportunities, coaching, mentorship, technical training, and meaningful data conversations.
 
 ---
 
 _"Data without action is just information. Let's turn it into impact."_
 
-
----
-
-📫 **Let's connect:** [LinkedIn](#) | [Portfolio](#) | [Email](mailto:your.email@example.com)  
-💬 **Open to:** Data roles, collaboration, mentorship, and good data conversations.
-
----
-
-_"Data without action is just trivia. Let's make it count."_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://adesokan.uk/)
       
 ## 🔭 What I'm Currently Working On 
 
