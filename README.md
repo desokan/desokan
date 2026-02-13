@@ -1,24 +1,67 @@
-## Hi there, I'm [Rasheed] 👋
+## Hi there, I'm Rasheed from London (UK)
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Business+Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rasheed-adesokan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.youtube.com/@rasheedadesokan"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="mailto:adesokanrasheed@yahoo.co.uk"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🎯 Data Analyst | Self-Taught Agentic AI Enthusiast | Business Problem Solver
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I transform complex data into clear, actionable insights that drive business decisions. My passion lies in **solving real business problems and solving it efficiently** — whether that's optimising processes, improving performance metrics, or uncovering the root causes behind operational challenges.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+### 🛠️ Tech Stack I Live In
+- **Data & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, BigQuery, Jupyter
+- **Visualisation:** Power BI, Looker Studio, Streamlit
+- **Cloud & Engineering:** Google Cloud Platform (BigQuery, Cloud Run, Cloud Functions), Docker, AWS
+- **AI & Automation:** LangGraph, OpenAI, RAG systems, prompt engineering, agentic workflows
+- **Other Tools:** Git, pytest, Excel (still love a good pivot table!)
+
+### 💡 What I'm About
+I don't just analyse data — I help businesses **improve**. Process bottlenecks? I identify and quantify them. Revenue leaks? I trace and plug them. Marketing spend inefficiencies? I optimise allocation. Every project I build is designed to answer one question: **"What action should we take based on this?"**
+
+### 🌍 When I'm Not In The Data
+You'll find me **creating content** to help others on their analytics journey, **mentoring** aspiring young professionals (because someone helped me when I started!), or watching sport (football, cricket, basketball — if there's a score, I'm in). Balance keeps the mind sharp. ⚽🏏🏀
+
+---
+
+📫 **Let's connect:** [LinkedIn](#) | [Portfolio](#) | [Email](mailto:your.email@example.com)  
+💬 **Open to:** Data analyst roles, collaboration opportunities, mentorship, and meaningful data conversations.
+
+---
+
+_"Data without action is just information. Let's turn it into impact."_
+
+
+---
+
+📫 **Let's connect:** [LinkedIn](#) | [Portfolio](#) | [Email](mailto:your.email@example.com)  
+💬 **Open to:** Data roles, collaboration, mentorship, and good data conversations.
+
+---
+
+_"Data without action is just trivia. Let's make it count."_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
