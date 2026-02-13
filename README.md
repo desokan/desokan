@@ -24,8 +24,12 @@ I transform complex data into clear, actionable insights that drive business dec
 - **AI & Automation:** LangGraph, OpenAI, RAG systems, prompt engineering, agentic workflows
 - **Other Tools:** Git, pytest, Excel (still love a good pivot table!)
 
+---
+
 ### 💡 What I'm About
 I don't just analyse data — I help businesses **improve**. Process bottlenecks? I identify and quantify them. Revenue leaks? I trace and plug them. Marketing spend inefficiencies? I optimise allocation. Every project I build is designed to answer one question: **"What action should we take based on this?"**
+
+---
 
 ### 🌍 When I'm Not In The Data
 You'll find me **creating content** to help others on their analytics journey, **mentoring** aspiring young professionals (because someone helped me when I started!), or watching sport (football, cricket, basketball — if there's a score, I'm in). Balance keeps the mind sharp. ⚽🏏🏀
@@ -34,13 +38,6 @@ You'll find me **creating content** to help others on their analytics journey, *
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/rasheed-adesokan/) | [Portfolio](https://adesokan.uk) | [Email](rasheed@adesokan.uk)  
 💬 **Open to:** Data analyst roles, collaboration opportunities, coaching, mentorship, technical training, and meaningful data conversations.
-
----
-
-_"Data without action is just information. Let's turn it into impact."_
-
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://adesokan.uk/)
       
 ## 🔭 What I'm Currently Working On 
 
