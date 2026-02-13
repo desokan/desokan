@@ -1,3 +1,5 @@
+![Banner](https://github.com/desokan/desokan/blob/main/DesokanGitHubBanner.png)
+
 ## Hi there, I'm Rasheed from London, UK
 
 <div align="center">
